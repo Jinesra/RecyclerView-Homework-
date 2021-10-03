@@ -1,0 +1,6 @@
+com/example/pluntshandbook/BuildConfig.java
+ com.example.pluntshandbook.BuildConfig
+com/example/pluntshandbook/databinding/PlantItemBinding.java
+ com.example.pluntshandbook.databinding.PlantItemBinding
+com/example/pluntshandbook/databinding/ActivityMainBinding.java
+ com.example.pluntshandbook.databinding.ActivityMainBinding
